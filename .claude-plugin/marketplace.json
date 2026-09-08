@@ -1,0 +1,22 @@
+{
+  "name": "wmiles81-plugins",
+  "owner": {
+    "name": "William Miles",
+    "url": "https://github.com/wmiles81"
+  },
+  "plugins": [
+    {
+      "name": "helpwright",
+      "source": {
+        "source": "github",
+        "repo": "wmiles81/helpwright"
+      },
+      "description": "Adds a browsable, zero-dependency help/docs system to any project — detects the framework (vanilla, React, Flask, Electron, Tauri, Deno, VS Code), scaffolds the shell, authors content from the real codebase, generates word-free infographics, and keeps it current with a maintainer agent.",
+      "version": "1.0.0",
+      "author": { "name": "William Miles" },
+      "license": "MIT",
+      "category": "documentation",
+      "keywords": ["help", "docs", "documentation", "infographics"]
+    }
+  ]
+}
