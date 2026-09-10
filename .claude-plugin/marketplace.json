@@ -11,12 +11,19 @@
         "source": "github",
         "repo": "wmiles81/helpwright"
       },
-      "description": "Adds a browsable, zero-dependency help/docs system to any project — or maps its Claude Code automation surface in developer-docs mode. Detects the framework (vanilla, React, Flask, Electron, Tauri, Deno, VS Code), scaffolds the shell, authors content from the real codebase, generates word-free infographics, and keeps it current with a maintainer agent.",
-      "version": "1.1.1",
-      "author": { "name": "William Miles" },
+      "description": "Adds a browsable, zero-dependency help/docs system to any project \u2014 or maps its Claude Code automation surface in developer-docs mode. Detects the framework (vanilla, React, Flask, Electron, Tauri, Deno, VS Code), scaffolds the shell, authors content from the real codebase, generates word-free infographics, and keeps it current with a maintainer agent.",
+      "version": "1.1.2",
+      "author": {
+        "name": "William Miles"
+      },
       "license": "MIT",
       "category": "documentation",
-      "keywords": ["help", "docs", "documentation", "infographics"]
+      "keywords": [
+        "help",
+        "docs",
+        "documentation",
+        "infographics"
+      ]
     }
   ]
 }
